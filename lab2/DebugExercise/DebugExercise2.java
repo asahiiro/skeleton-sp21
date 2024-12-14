@@ -1,5 +1,9 @@
 package DebugExercise;
 
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+
 /**
  * Exercise to showcase the step over button.
  * Code adapted from https://stackoverflow.com/questions/4895173/bitwise-multiply-and-add-in-java and https://stackoverflow.com/questions/1533131/what-useful-bitwise-operator-code-tricks-should-a-developer-know-about
